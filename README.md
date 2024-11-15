@@ -98,7 +98,5 @@ The optimized build will be in the build/ directory.
 - Add support for multiple languages.
 
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
 
